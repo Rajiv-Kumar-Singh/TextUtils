@@ -42,5 +42,8 @@
   font-family: 'Gochi Hand', cursive;
   font-size: 30px;  
   height: 34px;
-  color: rgb(43, 86, 165) !important; ;
+  color: rgb(0, 89, 255)!important; ;
+}
+.form-check-input{
+  cursor: pointer;
 }
