@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+
+.navbar-brand{
+  font-family: 'Gochi Hand', cursive;
+  font-size: 30px;
+  color: rgb(29, 91, 133);
+  height: 34px;
+}
